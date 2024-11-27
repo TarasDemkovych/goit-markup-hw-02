@@ -1,0 +1,147 @@
+.body {font-family: 'Roboto', 'Raleway', sans-serif;
+color: #2e2f42;
+font-size: 16px;
+}
+
+ ul, ol {list-style-type: none;}
+
+.hero {}
+
+.hero-title {}
+
+.list-hero {}
+
+.item {}
+
+.item-link {}
+
+.contactu {font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
+.contactu:hover .contactu:focus{color:#4d5ae5 ;}
+
+.con-list {}
+
+.con-item {}
+
+.mail {}
+
+.tel {}
+
+.main {}
+
+.sec-title {}
+
+.main-title {}
+
+.btn-order-service {display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background: #4d5ae5;
+        cursor: pointer; 
+    }
+.btn-order-service:focus{color: #4d5ae5;}
+
+
+.sec-futures {}
+
+.fut-title {}
+
+.fut-list {}
+
+.fut-item {}
+
+.title-strategy {}
+
+.Strategy-text {}
+
+.title-punctuality {}
+
+.punctuality-text {}
+
+.title-diligence {}
+
+.diligence-text {}
+
+.title-technologies {}
+
+.technologies-text {}
+
+.sec-our {}
+
+.team {}
+
+.title-our {}
+
+.team-list {}
+
+.item-mark {}
+
+.title-mark {}
+
+.product-designer-text {}
+
+.item-tom {}
+
+.title-tom {}
+
+.frontend-developer-text {}
+
+.item-camila {}
+
+.title-camila {}
+
+.marketing-text {}
+
+.item-daniel {}
+
+.title-daniel {}
+
+.ui-designer-text {}
+
+.sec-our-portfolio {}
+
+.title-our-portfolio {}
+
+.Portfolio-list {}
+
+.item-portfolio {}
+
+.title-banking-app {}
+
+.app-text {}
+
+.title-cashless-payment {}
+
+.title-meditation-app {}
+
+.meditation-text {}
+
+.item-auto {}
+
+.title-taxi-service {}
+
+.taxi-text {}
+
+.title-screen-illustrations {}
+
+.design-text {}
+
+.title-online-courses {}
+
+.online-courses-text {}
+
+.sec-footer {}
+
+.footer-title {}
+
+.footer-text {}
