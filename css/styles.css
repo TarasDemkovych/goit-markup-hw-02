@@ -1,147 +1,219 @@
 .body {font-family: 'Roboto', 'Raleway', sans-serif;
 color: #2e2f42;
-font-size: 16px;
-}
+font-size: 16px;}
+button{cursor: pointer;}
 
  ul, ol {list-style-type: none;}
-
+.nav{background: #fff}
 .hero {}
+.span-logo{color: #2e2f42;
+font-family: "Raleway", sans-serif;
+ont-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
 
-.hero-title {}
+.hero-title {font-family: "Raleway", sans-serif;
+font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;}
 
 .list-hero {}
 
 .item {}
 
-.item-link {}
+.item-link {color: #2e2f42;}
+.item-link:hover, .item-link:focus{color: #404bbf;}
 
-.contactu {font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
-.contactu:hover .contactu:focus{color:#4d5ae5 ;}
+.contactu {}
+
 
 .con-list {}
 
 .con-item {}
 
-.mail {}
+.mail {color: #434455;}
+.mail:hover, .mail:focus {
+    color: #404bbf;
+}
 
-.tel {}
+.tel {color: #434455;}
+.tel:hover, .tel:focus {
+    color: #404bbf;
+}
 
 .main {}
 
-.sec-title {}
+.sec {background: #2e2f42;}
 
-.main-title {}
+.main-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;}
 
-.btn-order-service {display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 10px;
-border-radius: 4px;
-    padding: 16px 32px;
+.btn-order-service {
     width: 169px;
     height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #4d5ae5;
-        cursor: pointer; 
+        background-color: #4d5ae5;
+        cursor: pointer;
+        color: #fff; 
     }
-.btn-order-service:focus{color: #4d5ae5;}
+.btn-order-service:focus, .btn-order-service:hover{background-color:#404bbf;}
 
 
 .sec-futures {}
 
+.btn-order-service:hover{}
 .fut-title {}
 
 .fut-list {}
 
 .fut-item {}
 
-.title-strategy {}
+.title-strategy {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    }
 
-.Strategy-text {}
+.Strategy-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
-.title-punctuality {}
+.title-punctuality {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;}
 
-.punctuality-text {}
+.punctuality-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
-.title-diligence {}
+.title-diligence {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    }
 
-.diligence-text {}
+.diligence-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
-.title-technologies {}
+.title-technologies {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    }
 
-.technologies-text {}
+.technologies-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;}
 
 .sec-our {}
 
 .team {}
 
-.title-our {}
+.title-our {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;}
 
 .team-list {}
 
 .item-mark {}
 
-.title-mark {}
+.title-mark {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    }
 
 .product-designer-text {}
 
 .item-tom {}
 
-.title-tom {}
+.title-tom {font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;}
 
 .frontend-developer-text {}
 
 .item-camila {}
 
-.title-camila {}
+.title-camila {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .marketing-text {}
 
 .item-daniel {}
 
-.title-daniel {}
+.title-daniel {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .ui-designer-text {}
 
 .sec-our-portfolio {}
 
-.title-our-portfolio {}
+.title-our-portfolio {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .Portfolio-list {}
 
 .item-portfolio {}
 
-.title-banking-app {}
+.title-banking-app {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .app-text {}
 
-.title-cashless-payment {}
+.title-cashless-payment {
+    font-size: 20px;
+    line-height: 1.2;}
 
-.title-meditation-app {}
+.title-meditation-app {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .meditation-text {}
 
 .item-auto {}
 
-.title-taxi-service {}
+.title-taxi-service {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .taxi-text {}
 
-.title-screen-illustrations {}
+.title-screen-illustrations {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .design-text {}
 
-.title-online-courses {}
+.title-online-courses {
+    font-size: 20px;
+    line-height: 1.2;}
 
 .online-courses-text {}
 
-.sec-footer {}
+.sec-footer {background-color: #2e2f42;}
 
 .footer-title {}
 
-.footer-text {}
+.footer-text {color: #f4f4fd}
