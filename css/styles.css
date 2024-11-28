@@ -96,9 +96,9 @@ letter-spacing: 0.02;}
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
-.team-list {background-color: #FFFFFF;}
+.team-list {}
 
-.item-our {}
+.item-our {background-color: #FFFFFF;}
 
 .title-person {font-weight: 500;
     font-size: 20px;
