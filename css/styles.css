@@ -121,8 +121,9 @@ text-transform:capitalize;
 color: #2e2f42;}
 
 .title-our-portfolio {
-    font-size: 20px;
-    line-height: 1.2;}
+    font-size: 36px;
+    line-height: 1.11;
+letter-spacing: 0.02em;}
 
 .Portfolio-list {}
 
@@ -136,7 +137,9 @@ color: #2e2f42;}
 
 .app-text {line-height: 1,5;
 letter-spacing: 0.02em;
-}
+font-size: 16px;
+line-height: 1,5;
+color: #434455;}
 
 .sec-footer {background-color: #2e2f42;}
 
