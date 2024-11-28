@@ -60,10 +60,10 @@ letter-spacing: 0.02;}
 .btn-order-service {line-height: 1.5;
     font-weight: 500;
     letter-spacing: 0.04em;
-        background-color: #4d5ae5;
+        background: #4d5ae5;
         color: #fff; 
     }
-.btn-order-service:focus .btn-order-service:hover {background-color: #404bbf;}
+.btn-order-service:focus, .btn-order-service:hover {background: #404bbf;}
 
 
 .sec-futures {}
