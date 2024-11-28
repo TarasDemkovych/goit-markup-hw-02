@@ -58,11 +58,12 @@ letter-spacing: 0.02;}
     color: #fff;}
 
 .btn-order-service {line-height: 1.5;
+    font-weight: 500;
     letter-spacing: 0.04em;
         background-color: #4d5ae5;
         color: #fff; 
     }
-.btn-order-service:focus, .btn-order-service:hover{background-color:#404bbf;}
+.btn-order-service:focus, .btn-order-service:hover {background-color: #404bbf;}
 
 
 .sec-futures {}
@@ -89,21 +90,24 @@ letter-spacing: 0.02;}
 .team {}
 
 .title-our {text-transform: capitalize;
+    text-align:center;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
-.team-list {background-color: #FFFFFF}
+.team-list {background-color: #FFFFFF;}
 
 .item-our {}
 
 .title-person {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    color: #2e2f42;
+    letter-spacing: 0.02em;
     }
 
-.our-text {line-height: 1, 5;
+.our-text {line-height: 1,5;
 letter-spacing: 0.02em;
 color: #434455;}
 
