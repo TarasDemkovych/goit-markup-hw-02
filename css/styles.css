@@ -23,7 +23,10 @@ font-weight: 700;
 
 .item {}
 
-.item-link {color: #2e2f42;}
+.item-link {color: #2e2f42;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;}
 .item-link:hover, .item-link:focus{color: #404bbf;}
 
 .contactu {
