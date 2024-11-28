@@ -63,7 +63,7 @@ letter-spacing: 0.02;}
         background-color: #4d5ae5;
         color: #fff; 
     }
-.btn-order-service:focus, .btn-order-service:hover {background-color: #404bbf;}
+.btn-order-service:focus .btn-order-service:hover {background-color: #404bbf;}
 
 
 .sec-futures {}
@@ -107,9 +107,10 @@ letter-spacing: 0.02;}
     letter-spacing: 0.02em;
     }
 
-.our-text {line-height: 1,5;
+.our-text {
 letter-spacing: 0.02em;
-color: #434455;}
+color: #434455;
+line-height: 1.5;}
 
 .sec-our-portfolio {}
 
