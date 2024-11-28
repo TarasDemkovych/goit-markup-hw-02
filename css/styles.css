@@ -113,7 +113,12 @@ letter-spacing: 0.02em;
 color: #434455;
 line-height: 1.5;}
 
-.sec-our-portfolio {}
+.sec-our-portfolio {font-size: 36px;
+line-height: 1.11;
+text-align:center;
+letter-spacing: 0.02em;
+text-transform:capitalize;
+color: #2e2f42;}
 
 .title-our-portfolio {
     font-size: 20px;
@@ -123,41 +128,15 @@ line-height: 1.5;}
 
 .item-portfolio {}
 
-.title-banking-app {
+.title-portfolio {font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;}
+    line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;}
 
-.app-text {}
-
-.title-cashless-payment {
-    font-size: 20px;
-    line-height: 1.2;}
-
-.title-meditation-app {
-    font-size: 20px;
-    line-height: 1.2;}
-
-.meditation-text {}
-
-.item-auto {}
-
-.title-taxi-service {
-    font-size: 20px;
-    line-height: 1.2;}
-
-.taxi-text {}
-
-.title-screen-illustrations {
-    font-size: 20px;
-    line-height: 1.2;}
-
-.design-text {}
-
-.title-online-courses {
-    font-size: 20px;
-    line-height: 1.2;}
-
-.online-courses-text {}
+.app-text {line-height: 1,5;
+letter-spacing: 0.02em;
+}
 
 .sec-footer {background-color: #2e2f42;}
 
