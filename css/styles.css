@@ -63,7 +63,8 @@ letter-spacing: 0.02;}
         background: #4d5ae5;
         color: #fff; 
     }
-.btn-order-service:focus, .btn-order-service:hover {background: #404bbf;}
+.btn-order-service:hover, 
+.btn-order-service:focus {background: #404bbf;}
 
 
 .sec-futures {}
