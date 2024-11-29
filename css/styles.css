@@ -83,7 +83,7 @@ ol {
 }
 .btn-order-service:hover,
 .btn-order-service:focus {
-  background: #404bbf;
+  color: #404bbf;
 }
 
 .title {
@@ -157,7 +157,7 @@ ol {
   line-height: 1, 5;
   letter-spacing: 0.02em;
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1,5;
   color: #434455;
 }
 
