@@ -79,11 +79,11 @@ ol {
   font-weight: 500;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
+  color: #ffffff;
 }
 .btn-order-service:hover,
 .btn-order-service:focus {
-    color: #fff;
-background-color: #404BBF;
+color: #404BBF;
 }
 
 .title {
