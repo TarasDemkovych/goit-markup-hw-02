@@ -84,6 +84,7 @@ ol {
 .btn-order-service:hover,
 .btn-order-service:focus {
 color: #404BBF;
+background-color: #404BBF;
 }
 
 .title {
