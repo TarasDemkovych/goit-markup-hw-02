@@ -28,9 +28,9 @@ ol {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  
+  color: #4d5ae5;
 }
-.hero-title:focus {color: #404bbf;}
+.contactu:focus {color: #404bbf;}
 .item-link {
   color: #2e2f42;
   font-weight: 500;
