@@ -30,7 +30,7 @@ ol {
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.contactu:focus {color: #404bbf;}
+
 .item-link {
   color: #2e2f42;
   font-weight: 500;
@@ -52,7 +52,9 @@ ol {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
+.con-item:hover,
+.con-item:focus {color: #404bbf;}
+ 
 .add {
   color: #434455;
 }
