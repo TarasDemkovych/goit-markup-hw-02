@@ -77,14 +77,14 @@ ol {
 .btn-order-service {
   line-height: 1.5;
   font-weight: 500;
+  font-size: 16px;
   letter-spacing: 0.04em;
   background-color: #4d5ae5;
   color: #ffffff;
 }
 .btn-order-service:hover,
 .btn-order-service:focus {
-color: #404BBF;
-background-color: #404BBF;
+color:#404bbf;
 }
 
 .title {
